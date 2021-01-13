@@ -72,4 +72,3 @@ e_quakes<-datasets::quakes
 
 sd(airquality$Ozone,na.rm = T)
 
-View(airquality)
